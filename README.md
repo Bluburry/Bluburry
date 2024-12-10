@@ -53,6 +53,7 @@ Initially, I studied mechanical engineering, but I discovered a deep passion for
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluburry&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bluburry&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
- 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bluburry&theme=blueberry)](https://git.io/streak-stats)
+
 </div>
 
