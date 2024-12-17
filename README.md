@@ -2,10 +2,9 @@
 
 Hello! 👋
 
-<!-- I'm currently attending [42 Porto](https://www.42porto.com/pt/) and taking a bachelor's degree in Informatics Engineering at [Instituto Superior de Engenharia do Porto](https://www.isep.ipp.pt/). -->
-I'm currently attending <a href="https://www.42porto.com/pt/" target="_blank">42 Porto</a> and taking a bachelor's degree in Informatics Engineering at <a href="https://www.isep.ipp.pt/" target="_blank">ISEP</a>.
+I'm currently attending [42 Porto](https://www.42porto.com/pt/){:target="_blank"} and taking a bachelor's degree in Informatics Engineering at [Instituto Superior de Engenharia do Porto](https://www.isep.ipp.pt/){:target="_blank"}.
 
-Initially, I studied mechanical engineering, but I discovered a deep passion for technology. This led me to earn a technical school degree at <a href="https://www.atec.pt/" target="_blank">ATEC</a> []() in networking and system administration. From there, I delved into the world of programming, which inspired me to further my education in software development.
+Initially, I studied mechanical engineering, but I discovered a deep passion for technology. This led me to earn a technical school degree at [ATEC](https://www.atec.pt/){:target="_blank"} in networking and system administration. From there, I delved into the world of programming, which inspired me to further my education in software development.
 
 <p align="center">
  <a href='https://www.linkedin.com/in/tiago-silva-687338206/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
