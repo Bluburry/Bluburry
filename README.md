@@ -4,7 +4,7 @@ Hello! 👋
 
 I'm currently working as a R&D Specialist at [Efacec](https://www.efacec.com/) while pursuing a Master’s degree in Critical Systems Engineering at [Instituto Superior de Engenharia do Porto (ISEP)](https://www.isep.ipp.pt/)
 
-I hold a Bachelor’s degree in Informatics Engineering from ISEP and previously attended [42 Porto](https://www.42porto.com/pt/)where I strengthened my problem-solving and coding skills through project-based learning.
+I hold a Bachelor’s degree in Informatics Engineering from ISEP and previously attended [42 Porto](https://www.42porto.com/pt/), where I strengthened my problem-solving and coding skills through project-based learning.
 
 My path into technology started in a different place, I first studied mechanical engineering, before discovering a deep passion for tech. That shift led me to earn a technical school degree at [ATEC](https://www.atec.pt/) in networking and system administration. From there, I immersed myself in programming and software development, which ultimately shaped my academic and professional journey.
 
